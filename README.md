@@ -29,10 +29,27 @@ The primary objectives of this Music Recommendation System project are as follow
 
 These objectives drive the development and iterative improvement of the music recommendation system. By achieving these goals, the project aims to deliver a robust and enjoyable user experience.
 
+## Key Features
+Dataset: Spotify dataset from Kaggle, containing detailed metadata and acoustic features of songs.
 
-## License
+Machine Learning Techniques:
+Content-based filtering: Recommends songs based on acoustic and metadata similarities.
+Collaborative filtering: Utilizes user listening patterns to suggest songs that similar users enjoyed.
+Hybrid models: Combines the strengths of multiple algorithms for improved recommendations.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+User Interaction:
+Personalized playlists
+Real-time recommendations
+Insights into listening patterns
+
+## Technology Stack
+
+Programming Language: Python
+Libraries:
+Data Processing: Pandas, NumPy
+Machine Learning: scikit-learn, TensorFlow, PyTorch
+Visualization: Matplotlib, Seaborn, Plotly
+Deployment: Gradio for creating user interfaces, Flask/Django for backend APIs
 
 ## Acknowledgements
 
