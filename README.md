@@ -61,5 +61,5 @@ For any queries regarding the project, please reach out through the Issues secti
 
 ## Contributors
 
-Shashank C A
+Shashank C A, vikas M gowda, Purushothama B, Manoj M Gowda
 
